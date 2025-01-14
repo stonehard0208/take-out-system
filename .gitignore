@@ -4,3 +4,7 @@
 *.class
 *Test.java
 **/test/.DS_Store
+./DS_Store
+.DS_Store
+sky-pojo/.DS_Store
+sky-server/.DS_Store
